@@ -3,13 +3,13 @@ import { Task } from "./Task"
 export const TASKS: Task[] = [
     {
         id: 1,
-        text: "terminar nuestro primer módulo de Angular",
+        text: "Terminar nuestro primer módulo de Angular",
         day: "Enero 28 a las 12:00",
         reminder: true
     },
     {
         id: 2,
-        text: "hace compras",
+        text: "Hace compras",
         day: "Enero 28 a las 18:00",
         reminder: true
     },
