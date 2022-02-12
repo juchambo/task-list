@@ -1,34 +1,16 @@
 {
-    "tasks": [
-        {
-            "id": 1,
-            "text": "Nuestro primer módulo de Angular",
-            "day": "Enero 28 a las 12:00",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Hace compras",
-            "day": "Enero 28 a las 18:00",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Investigar Bootstrap",
-            "day": "Enero 29 a las 12:00",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Leer Histora",
-            "day": "Enero 30 a las 12:00",
-            "reminder": false
-        },
-        {
-            "id": 5,
-            "text": "Invefsdfootstrap",
-            "day": "Enero 29sdfsdf2:00",
-            "reminder": false
-        }
-    ]
+  "tasks": [
+    {
+      "text": "Task 1",
+      "day": "123456",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Tarea nueva",
+      "day": "123456",
+      "reminder": false,
+      "id": 2
+    }
+  ]
 }
